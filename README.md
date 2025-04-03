@@ -43,5 +43,5 @@ Alguns trechos de código foram baseados nos exemplos fornecidos durante os curs
 ## 🚀 Autor
 
 **Guilherme Miranda**  
-🔗 [LinkedIn](www.linkedin.com/in/guilhermeemiranda)  
+🔗 [LinkedIn](https://www.linkedin.com/in/guilhermeemiranda/)  
 🐙 [GitHub](https://github.com/xguimiranda)
