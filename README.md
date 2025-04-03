@@ -14,33 +14,21 @@ Os códigos e jogos foram produzidos com base nos seguintes cursos:
 
 ---
 
-## 🕹️ Jogos disponíveis
-
-| Jogo                      | Linguagem | Descrição rápida                         |
-|---------------------------|-----------|------------------------------------------|
-| Adivinhação de número     | C         | Jogador tenta adivinhar um número aleatório |
-| Jogo com manipulação de arquivos | C | Leitura e escrita em arquivos `.txt`     |
-| Jogo com uso da STL       | C++       | Aplicação prática de vetores, maps e outras estruturas da STL |
-
----
-
 ## 🧠 Objetivo
 
 Esse repositório tem como finalidade:
 
-- Consolidar os conceitos aprendidos nos cursos da Alura
-- Exercitar a organização e modularização do código
-- Servir como referência de aprendizado contínuo
+- Fixar os conceitos aprendidos nos cursos da Alura
+- Melhorar a organização e modularização do código
+- Ficar como referencia para novos projetos no GitHub
 
 ---
 
 ## ⚠️ Observação
 
-Alguns trechos de código foram baseados nos exemplos fornecidos durante os cursos da **Alura**
+Alguns trechos de código foram baseados nos exemplos dos cursos da **Alura**
 
 ---
-
-## 🚀 Autor
 
 **Guilherme Miranda**  
 🔗 [LinkedIn](https://www.linkedin.com/in/guilhermeemiranda/)  
