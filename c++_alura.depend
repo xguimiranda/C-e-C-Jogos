@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1743097661 source:c:\users\sagui\onedrive\documentos\c++_alura\jogodaadivinhação.cpp
+	<iostream>
+	<iomanip>
+
+1743115579 source:c:\users\sagui\onedrive\documentos\c++_alura\jogo da forca.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1743224488 source:c:\users\sagui\onedrive\documentos\c++_alura\forca.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"forca.h"
+
+1743224561 c:\users\sagui\onedrive\documentos\c++_alura\forca.h
+
+1743626198 source:c:\users\sagui\onedrive\documentos\c++_alura\fogefoge.c
+	<stdio.h>
+	<stdlib.h>
+	"fogefoge.h"
+
+1743626323 c:\users\sagui\onedrive\documentos\c++_alura\fogefoge.h
+
+1743636665 source:c:\users\sagui\onedrive\documentos\c++_alura\jogo do fogefoge\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	"mapa.h"
+	<string.h>
+
+1743636665 c:\users\sagui\onedrive\documentos\c++_alura\jogo do fogefoge\mapa.h
+
+1743636758 source:c:\users\sagui\onedrive\documentos\c++_alura\jogo do fogefoge\fogefoge.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"fogefoge.h"
+	"mapa.h"
+	"ui.h"
+
+1743636665 c:\users\sagui\onedrive\documentos\c++_alura\jogo do fogefoge\fogefoge.h
+
+1743636665 c:\users\sagui\onedrive\documentos\c++_alura\jogo do fogefoge\ui.h
+	"mapa.h"
+
+1743636649 source:c:\users\sagui\onedrive\documentos\c++_alura\jogo do fogefoge\ui.c
+	<stdio.h>
+	"mapa.h"
+
